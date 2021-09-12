@@ -10,10 +10,10 @@ DND5E城主工具包，实现了以下功能：
 
 那我干了什么呢？ <strike>我打了个包</strike>
 ### 需求MOD
-|#|Module|json链接
-|---|----|-----|
-|1|[dnd5e_classpack](https://github.com/HJSmile/classpack)|```https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json```|
-|2|[better-rolltables](https://github.com/ultrakorne/better-rolltables)|```https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json```|
+|Module|json链接
+|----|-----|
+|[dnd5e_classpack](https://github.com/HJSmile/classpack)|```https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json```|
+|[better-rolltables](https://github.com/ultrakorne/better-rolltables)|```https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json```|
 
 ### 使用方法：  
 打开安装MOD界面，复制以下路径
