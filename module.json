@@ -2,12 +2,13 @@
     "name": "dnd5e_DMTools",
     "title": "DND5E城主工具包",
     "description": "目前集成了物品随机表,部分常用物品材料等。",
-    "version": "1.0.2",
-    "author": "Eternal Rider，classpack社区",
+    "version": "1.0.3",
+    "author": "Eternal Rider,classpack社区",
     "systems": ["dnd5e"],
     "scripts": [],
     "styles": [],
-    "packs": [{
+    "packs": [
+        {
             "label": "随机表",
             "entity": "RollTable",
             "name": "homebrewrolltable",
@@ -39,9 +40,21 @@
             "system": "dnd5e"
         }
     ],
+	"dependencies": [
+        {
+            "name": "dnd5e_classpack",
+            "type": "module",
+            "manifest": "https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json"
+        },
+        {
+            "name": "better-rolltables",
+            "type": "module",
+            "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
+        }
+    ],
     "url": "https://github.com/feederze/DMTools",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.8.9",
     "manifest": "https://raw.githubusercontent.com/feederze/DMTools/main/module.json",
-    "download": "https://github.com/feederze/DMTools/releases/download/v1.0.2/DMTools.zip"
+    "download": "https://github.com/feederze/DMTools/releases/download/v1.0.3/fvtt-DMTools.zip"
 }
