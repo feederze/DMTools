@@ -7,7 +7,8 @@ DND5E城主工具包，实现了以下功能：
 - **宝石、DMG魔法物品随机表**。作者：Eternal Rider，该功能依赖Better Roll Tables
 - **随机名称生成器**。作者：Eternal Rider，该功能依赖Better Roll Tables
 - **商人物品一键生成**。作者：Eternal Rider，该功能依赖Better Roll Tables
-那我干了什么呢？ 我打了个包
+
+那我干了什么呢？ <strike>我打了个包</strike>
 ### 需求MOD
 |#|Module|json链接
 |---|----|-----|
