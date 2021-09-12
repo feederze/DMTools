@@ -3,12 +3,11 @@
     "title": "DND5E城主工具包",
     "description": "目前集成了物品随机表,部分常用物品材料等。",
     "version": "1.0.3",
-    "author": "Eternal Rider及classpack社区",
+    "authors": [{"name":"Eternal Rider"},{"name":"classpack社区"}],
     "systems": ["dnd5e"],
     "scripts": [],
     "styles": [],
-    "packs": [
-        {
+    "packs": [{
             "label": "随机表",
             "entity": "RollTable",
             "name": "homebrewrolltable",
@@ -40,13 +39,14 @@
             "system": "dnd5e"
         }
     ],
-	"dependencies": [
-        {
+    "dependencies": [{
+            "name": "dnd5e",
+            "type": "system"
+        }, {
             "name": "dnd5e_classpack",
             "type": "module",
             "manifest": "https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json"
-        },
-        {
+        }, {
             "name": "better-rolltables",
             "type": "module",
             "manifest": "https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json"
