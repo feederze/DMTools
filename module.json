@@ -44,6 +44,6 @@
     "url": "https://github.com/feederze/DMTools",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.8.9",
-    "manifest": "https://raw.githubusercontent.com/feederze/classpack/master/dnd5e_classpack/module.json",
-    "download": "https://github.com/feederze/classpack/raw/master/dnd5e_classpack.zip"
+    "manifest": "https://raw.githubusercontent.com/feederze/DMTools/main/module.json",
+    "download": "https://github.com/feederze/DMTools/releases/download/v1.0.0/fvtt-DMTools.zip"
 }
