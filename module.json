@@ -2,7 +2,7 @@
     "name": "dnd5e_DMTools",
     "title": "DND5E城主工具包",
     "description": "目前集成了物品随机表,部分常用物品材料等。",
-    "version": "1.1.1",
+    "version": "1.1.2",
 	"authors": [{"name":"Eternal Rider"},{"name":"classpack社区"}],
     "systems": ["dnd5e"],
     "scripts": [],
@@ -49,6 +49,6 @@
     "url": "https://github.com/feederze/DMTools",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.8.9",
-    "manifest": "https://cdn.jsdelivr.net/gh/feederze/DMTools/cdn.json",
+    "manifest": "https://cdn.jsdelivr.net/gh/feederze/DMTools/module.json",
     "download": "https://cdn.jsdelivr.net/gh/feederze/DMTools/dnd5e_DMTools.zip"
 }
