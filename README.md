@@ -16,11 +16,16 @@ DND5E城主工具包，实现了以下功能：
 |[dnd5e_classpack](https://github.com/HJSmile/classpack)|```https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json```|
 |[better-rolltables](https://github.com/ultrakorne/better-rolltables)|```https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json```|
 |[Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e)|```https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json```|
+|[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)|```https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json```|
 
 ### 使用方法：  
 打开安装MOD界面，复制以下路径
 
     https://raw.githubusercontent.com/feederze/DMTools/main/module.json
+
+CDN加速下载地址(测试阶段: 无需科技!无需运气!)
+
+    https://cdn.jsdelivr.net/gh/feederze/DMTools/cdn.json
 
 粘贴至以下位置后，点击安装
 (需求模组同理)
