@@ -21,7 +21,7 @@ DND5E城主工具包，实现了以下功能：
 ### 使用方法：  
 打开安装MOD界面，复制以下路径
 
-    https://cdn.jsdelivr.net/gh/feederze/DMTools/cdn.json
+    https://cdn.jsdelivr.net/gh/feederze/DMTools/module.json
 
 
 粘贴至以下位置后，点击安装
