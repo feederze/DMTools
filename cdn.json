@@ -49,6 +49,6 @@
     "url": "https://github.com/feederze/DMTools",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.8.9",
-    "manifest": "https://cdn.jsdelivr.net/gh/feederze/DMTools/module.json",
+    "manifest": "https://cdn.jsdelivr.net/gh/feederze/DMTools/cdn.json",
     "download": "https://cdn.jsdelivr.net/gh/feederze/DMTools/dnd5e_DMTools.zip"
 }
