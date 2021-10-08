@@ -23,10 +23,6 @@ DND5E城主工具包，实现了以下功能：
 
     https://raw.githubusercontent.com/feederze/DMTools/main/module.json
 
-CDN加速下载地址(测试阶段: 无需科技!无需运气!)
-
-    https://cdn.jsdelivr.net/gh/feederze/DMTools/cdn.json
-
 粘贴至以下位置后，点击安装
 (需求模组同理)
 ![MODPanel](./MODPanel.png)
