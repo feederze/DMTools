@@ -10,20 +10,13 @@ DND5E城主工具包，实现了以下功能：
 
 那我干了什么呢？ <strike>我打了个包</strike>
 
-### 需求MOD
-|Module|json链接
-|-|-|
-|[dnd5e_classpack](https://github.com/HJSmile/classpack)|```https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json```|
-|[better-rolltables](https://github.com/ultrakorne/better-rolltables)|```https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json```|
-|[Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e)|```https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json```|
-|[Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders)|```https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json```|
+### MOD关联
+|Module|json链接|备注
+|-|-|-|
+|[dnd5e_classpack](https://github.com/HJSmile/classpack)|```https://raw.githubusercontent.com/HJSmile/classpack/master/dnd5e_classpack/module.json```|爹！没了你我可怎么活啊！|
+|[better-rolltables](https://github.com/ultrakorne/better-rolltables)|```https://raw.githubusercontent.com/ultrakorne/better-rolltables/master/module.json```|部分功能依赖BRT 但BRT迟迟不更新支持v11|
+|[Loot Sheet NPC 5E](https://github.com/jopeek/fvtt-loot-sheet-npc-5e)|```https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/master/module.json```|大伙儿都跑去用[itemPiles](https://github.com/fantasycalendar/FoundryVTT-ItemPiles)了谁还用你啊|
+|[~~Compendium Folders~~](https://github.com/earlSt1/vtt-compendium-folders)|```https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json```|V11已经不需要它啦|
 
-### 使用方法：  
-打开安装MOD界面，复制以下路径
-
+### 手动安装：  
     https://cdn.jsdelivr.net/gh/feederze/DMTools/module.json
-
-
-粘贴至以下位置后，点击安装
-(需求模组同理)
-![MODPanel](./MODPanel.png)
