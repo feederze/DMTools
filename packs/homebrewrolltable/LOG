@@ -1,7 +1,5 @@
-2023/08/02-05:24:52.459 3488 Recovering log #16
-2023/08/02-05:24:52.466 3488 Delete type=0 #16
-2023/08/02-05:24:52.467 3488 Delete type=3 #15
-2023/08/02-05:24:59.904 434 Level-0 table #20: started
-2023/08/02-05:24:59.904 434 Level-0 table #20: 0 bytes OK
-2023/08/02-05:24:59.907 434 Delete type=0 #18
-2023/08/02-05:24:59.907 434 Manual compaction at level-0 from '!tables!0mdnBRXp8C900mLN' @ 72057594037927935 : 1 .. '!tables.results!zqsjZrM7NwyyWoEM.tLBNTx3hqUlttj17' @ 0 : 0; will stop at (end)
+2023/08/07-17:04:09.700 4908 Recovering log #16
+2023/08/07-17:04:09.700 4908 Level-0 table #18: started
+2023/08/07-17:04:09.702 4908 Level-0 table #18: 35332 bytes OK
+2023/08/07-17:04:09.706 4908 Delete type=0 #16
+2023/08/07-17:04:09.706 4908 Delete type=3 #15
